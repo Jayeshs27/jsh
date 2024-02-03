@@ -1,0 +1,15 @@
+clear
+clear
+sleep 3 ; sleep 5 ;
+activities
+clear
+clear
+clear
+clear
+clear
+clear
+warp -
+warp ..
+clear
+clear
+clear
